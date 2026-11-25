@@ -1,0 +1,1 @@
+import{s as e}from"./useDemoData-eF2sf-1r.js";var t=(t,n,r={})=>new Intl.NumberFormat(e(n),{style:`currency`,currency:`CAD`,currencyDisplay:`narrowSymbol`,minimumFractionDigits:0,maximumFractionDigits:2,...r}).format(t),n=(t,n,r={})=>new Intl.NumberFormat(e(n),{style:`percent`,maximumFractionDigits:1,...r}).format(t);export{n,t};
