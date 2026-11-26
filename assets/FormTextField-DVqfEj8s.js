@@ -1,0 +1,1 @@
+import{t as e}from"./TextField-CQsPSbxQ.js";import{Ot as t}from"./chunk-Z7SQORRT-BwKbQRR3.js";var n=t(),r=t=>(0,n.jsx)(e,{fullWidth:!0,size:`small`,...t});export{r as t};
