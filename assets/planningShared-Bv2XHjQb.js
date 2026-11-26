@@ -1,0 +1,1 @@
+var e=e=>{let t=e.trim().replace(`,`,`.`);return/^\d+(\.\d{1,2})?$/.test(t)?Math.round(Number(t)*100):NaN};export{e as t};
